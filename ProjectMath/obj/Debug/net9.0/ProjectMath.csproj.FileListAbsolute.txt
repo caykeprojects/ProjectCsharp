@@ -1,0 +1,14 @@
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\bin\Debug\net9.0\ProjectMath.exe
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\bin\Debug\net9.0\ProjectMath.deps.json
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\bin\Debug\net9.0\ProjectMath.runtimeconfig.json
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\bin\Debug\net9.0\ProjectMath.dll
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\bin\Debug\net9.0\ProjectMath.pdb
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\obj\Debug\net9.0\ProjectMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\obj\Debug\net9.0\ProjectMath.AssemblyInfoInputs.cache
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\obj\Debug\net9.0\ProjectMath.AssemblyInfo.cs
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\obj\Debug\net9.0\ProjectMath.csproj.CoreCompileInputs.cache
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\obj\Debug\net9.0\ProjectMath.dll
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\obj\Debug\net9.0\refint\ProjectMath.dll
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\obj\Debug\net9.0\ProjectMath.pdb
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\obj\Debug\net9.0\ProjectMath.genruntimeconfig.cache
+C:\Users\Cayke Cardoso\Desktop\VScode\ProjectMath\obj\Debug\net9.0\ref\ProjectMath.dll
