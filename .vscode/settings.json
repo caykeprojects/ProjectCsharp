@@ -1,4 +1,0 @@
-{
-    "dotnet.defaultSolution": "ProjectMath.sln",
-    "csharp.debug.console": "externalTerminal"
-}
